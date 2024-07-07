@@ -1,0 +1,15 @@
+{
+  "grats": {
+    // See Configuration for all available options
+  },
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "grats-ts-plugin"
+      }
+    ],
+    "outDir": "./dist",
+    "strictNullChecks": true,
+    "module": "NodeNext"
+  }
+}
